@@ -5,9 +5,9 @@ public class Main {
     public static void main(String[] args) {
 
         int highScore = calculateScore(true, 800, 5, 100);
-        System.out.println("Your final score was " + highScore );
-        System.out.println(calculateScore(true, 800, 5, 100));
-        System.out.println(calculateScore(true, 10000, 8, 200));
+        System.out.println("Your final score was: " + highScore );
+        System.out.println("Your final score was: " + calculateScore(true, 800, 5, 100));
+        System.out.println("Your final score was: " + calculateScore(true, 10000, 8, 200));
 
     }
 
