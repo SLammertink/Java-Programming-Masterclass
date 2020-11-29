@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8b6d06f-a5a5-4065-9c8f-5b34004c75bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kQ2vwuZsRDz5Rdk7t4Szd5KyT2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.InputCalculator">
+    <configuration name="InputCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputCalculator" />
+      <module name="Inputcalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inputcalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inputcalculator" />
+      <module name="Inputcalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InputCalculator" />
+        <item itemvalue="Application.Inputcalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8b6d06f-a5a5-4065-9c8f-5b34004c75bb" name="Default Changelist" comment="" />
+      <created>1605618728716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605618728716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1232" height="156" key="GridCell.Tab.0.bottom" timestamp="1605781681329">
+      <screen x="0" y="27" width="1280" height="693" />
+    </state>
+    <state width="1232" height="156" key="GridCell.Tab.0.bottom/0.27.1280.693@0.27.1280.693" timestamp="1605781681329" />
+    <state width="1232" height="156" key="GridCell.Tab.0.center" timestamp="1605781681328">
+      <screen x="0" y="27" width="1280" height="693" />
+    </state>
+    <state width="1232" height="156" key="GridCell.Tab.0.center/0.27.1280.693@0.27.1280.693" timestamp="1605781681328" />
+    <state width="1232" height="156" key="GridCell.Tab.0.left" timestamp="1605781681327">
+      <screen x="0" y="27" width="1280" height="693" />
+    </state>
+    <state width="1232" height="156" key="GridCell.Tab.0.left/0.27.1280.693@0.27.1280.693" timestamp="1605781681327" />
+    <state width="1232" height="156" key="GridCell.Tab.0.right" timestamp="1605781681328">
+      <screen x="0" y="27" width="1280" height="693" />
+    </state>
+    <state width="1232" height="156" key="GridCell.Tab.0.right/0.27.1280.693@0.27.1280.693" timestamp="1605781681328" />
+  </component>
+</project>
